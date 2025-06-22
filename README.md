@@ -1,43 +1,84 @@
-### Hi there 👋  Thank you for visiting my profile 👩🏾‍💻
+# Hi there 👋🏾 Welcome to my GitHub!
 
-- 🔭 I’m currently working on getting a job as a Data Engineer
-- 👯 I’m looking to collaborate on any and all projects
-- 🤔 I’m looking for help with Data tasks
-- 💬 Ask me about: Data Engineering
-- 📫 How to reach me: krissemmy17@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love listening to music, Love looking up recipes to try out different dishes, I'm more productive at home
+🔭 I’m currently a DevOps & Data Engineer at [GlueX Protocol](https://gluex.xyz), helping build the next generation of decentralized trading infrastructure.  
+👨🏾‍💻 I specialize in blockchain node operations, on-chain data indexing, and real-time monitoring systems.  
+💬 Ask me about: Running full nodes, building data pipelines, cloud infra automation, or monitoring stacks.  
+📫 Reach out: krissemmy17@gmail.com  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I love music, collect recipes to cook new dishes, and do my best work in calm environments.
 
-With a strong educational background from AltSchool Africa and hands-on experience as a Data Engineering/MLOps intern at hamoye.com, I am dedicated to leveraging data to drive insights and create impactful solutions. My expertise spans Python, PostgreSQL, GCP, Apache Beam, ETL, and Airflow enabling me to contribute effectively to data engineering projects.
+---
 
-Over the year I have engaged myself in projects that bring together data science, data analytics, and data engineering; developed and maintained prediction systems that help to discover hidden insights and provide a better view of ways to solve problems that drive the company’s growth and stability.
+### 🚀 About Me
 
-I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow, docker ), and the use of data visualization techniques to present the results. I use SQL, Python, and cloud technologies (GCP, AWS) for my data projects and am very good at providing solutions to problems that stomp your company's data-driven decisions.
+I'm a passionate DevOps & Data Engineer with a strong foundation in cloud-native infrastructure, blockchain protocols, and scalable data systems. From humble beginnings as a curious learner, I’ve grown into a **senior team member and founding engineer at GlueX Protocol**, where I manage mission-critical infrastructure across multiple blockchain networks and cloud platforms.
 
-My Skills includes:
+I’ve built full-node setups, indexing systems, stress-test frameworks, observability pipelines, and autoscaling environments using AWS, Linux, and modern DevOps stacks. 
 
-Technical Skills:
-- Programming Languages: Python, SQL
-- Big Data Technologies/ETL Tools: Apache Beam, Apache Airflow, dbt
-- Database Management Systems: PostgreSQL, MongoDB
-- Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
-- Data Lake: Amazon s3, Google Cloud Storage
-- Data Warehousing: Amazon Redshift, Google BigQuery, Snowflake
-- Serverless Data Processing: Dataflow
-- Messaging Service: Google Pub/Sub
-- Data Visualization: Looker
-- Version Control: Git, GitHub
+#### ✅ Node Infrastructure Experience
+I have hands-on experience or deep research knowledge in setting up and managing nodes across:
 
+`Ethereum`, `Arbitrum`, `Base`, `Blast`, `Linea`, `Scroll`, `Mantle`, `Polygon`, `Optimism`, `Gnosis`, `BNB Chain`, `Berachain`, `Unichain`, `Sonic`, `Avalanche`, `Sei`, `Taiko`, and `Hyperevm`.
 
-Soft Skills:
-- Creativity
-- Collaboration and teamwork
-- Strong problem-solving and analytical skills
-- Excellent written and verbal communication skills
-- Ability to work collaboratively in a team environment
-- Detail-oriented with a focus on data accuracy and quality
-- Leadership and team management capabilities
-- Data ethics and privacy awareness
-- Adaptability
-- Time management
-- Continuous learning
+---
+
+### 💼 Background
+
+With an educational foundation from **AltSchool Africa** and a previous role as a **Data Engineering/MLOps Intern at Hamoye**, I’ve worked on systems that transform raw data into actionable insight, while improving reliability, traceability, and deployment agility.
+
+I’ve contributed to projects spanning **on-chain data engineering**, **custom blockchain indexers**, **Microservices**, **monitoring dashboards (Grafana, Prometheus, Loki)**, **ETL pipelines**, and **AWS cost-optimized infra**.
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming & Query Languages:**  
+`Python`, `SQL`, `Bash`
+
+**Blockchain/Node Operations:**  
+`Node Setup`, `RPC Optimization`, `Peer Discovery`, `Node Monitoring`, `Custom Indexers`
+
+**DevOps & Infrastructure:**  
+`Linux`, `Docker`, `Nginx`, `Grafana`, `Prometheus`, `Loki`, `Amazon EC2`, `EBS/NVMe`, `CloudWatch`, `Terraform (basic)`
+
+**Cloud Platforms:**  
+`AWS`, `GCP`
+
+**Data Tools & Engineering:**  
+`Apache Beam`, `Apache Airflow`, `DBT`, `ETL`, `Dataflow`, `Google Pub/Sub`, `Amazon Kinesis`, `AWS Lambda`
+
+**Data Stores:**  
+`PostgreSQL`, `MongoDB`, `DynamoDB`, `Amazon Redshift`, `BigQuery`, `Snowflake`, `S3`, `GCS`, `Amazon RDS`, `Amazon DynamoDB`, `Amazon Timestream`
+
+**Monitoring & Observability:**  
+`Grafana`, `Loki`, `Prometheus`, `Amazon Managed Grafana`, `CloudWatch`, `Prometheus Client`
+
+**MLOps & Visualization:**  
+`Looker`, `Matplotlib`, `Plotly`
+
+**Version Control & Collaboration:**  
+`Git`, `GitHub`, `GitHub Actions`
+
+---
+
+### 🧠 Soft Skills
+
+- Creative problem-solver
+- Team-oriented and collaborative
+- Excellent communicator
+- Deep focus on reliability and maintainability
+- Comfortable with fast-paced, startup environments
+- Security-conscious and privacy-aware
+- Always learning, always improving
+
+---
+
+### 🤝 Let’s Connect!
+
+Thanks for checking out my profile!  
+Whether you want to collaborate, learn more about my work, or have a **DevOps/Data Engineering role** or freelance project in mind — feel free to reach out. I'm always open to meaningful conversations and opportunities.  
+
+📧 **Email:** krissemmy17@gmail.com  
+🔗 **LinkedIn:** [Emmanuel Christopher](https://www.linkedin.com/in/emmanuel-christopher/)  
+
+I love open source, sharing knowledge, and building systems that just work. 👋🏾
