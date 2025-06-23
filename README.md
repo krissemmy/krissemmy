@@ -1,6 +1,6 @@
 # Hi there 👋🏾 Welcome to my GitHub!
 
-🔭 I’m currently a DevOps & Data Engineer at [GlueX Protocol](https://gluex.xyz), helping build the next generation of decentralized trading infrastructure.  
+🔭 I’m currently a DevOps & Data Engineer at [GlueX Protocol](https://gluex.xyz), helping build the next generation of decentralized Finance infrastructure.  
 👨🏾‍💻 I specialize in blockchain node operations, on-chain data indexing, and real-time monitoring systems.  
 💬 Ask me about: Running full nodes, building data pipelines, cloud infra automation, or monitoring stacks.  
 📫 Reach out: krissemmy17@gmail.com  
