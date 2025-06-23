@@ -5,7 +5,7 @@
 💬 Ask me about: Running full nodes, building data pipelines, cloud infra automation, or monitoring stacks.  
 📫 Reach out: krissemmy17@gmail.com  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I love music, collect recipes to cook new dishes, and do my best work in calm environments.
+⚡ Fun fact: I love music, collect recipes to cook new dishes, and do my best work in with music and snacks to go.
 
 ---
 
