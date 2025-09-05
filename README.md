@@ -1,6 +1,6 @@
 # Hi there 👋🏾 Welcome to my GitHub!
 
-🔭 Building [krainode](https://krainode.krissemmy.com). Founding DevOps & Data Engineer at [GlueX Protocol](https://gluex.xyz), helping build the next generation of decentralized Finance infrastructure.  
+🔭 Building [KraiNode](https://krainode.krissemmy.com). Founding DevOps & Data Engineer at [GlueX Protocol](https://gluex.xyz), helping build the next generation of decentralized Finance infrastructure.  
 👨🏾‍💻 I specialize in blockchain node operations, on-chain data indexing, and real-time monitoring systems.  
 💬 Ask me about: Running full nodes, building data pipelines, cloud infra automation, or monitoring stacks.  
 📫 Reach out: krissemmy17@gmail.com  
