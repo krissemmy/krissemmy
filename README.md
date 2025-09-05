@@ -1,6 +1,6 @@
 # Hi there 👋🏾 Welcome to my GitHub!
 
-🔭 I’m currently a DevOps & Data Engineer at [GlueX Protocol](https://gluex.xyz), helping build the next generation of decentralized Finance infrastructure.  
+🔭 Building [krainode](https://krainode.krissemmy.com). Founding DevOps & Data Engineer at [GlueX Protocol](https://gluex.xyz), helping build the next generation of decentralized Finance infrastructure.  
 👨🏾‍💻 I specialize in blockchain node operations, on-chain data indexing, and real-time monitoring systems.  
 💬 Ask me about: Running full nodes, building data pipelines, cloud infra automation, or monitoring stacks.  
 📫 Reach out: krissemmy17@gmail.com  
@@ -24,7 +24,7 @@ I have hands-on experience or deep research knowledge in setting up and managing
 
 ### 💼 Background
 
-With an educational foundation from **AltSchool Africa** and a previous role as a **Data Engineering/MLOps Intern at Hamoye**, I’ve worked on systems that transform raw data into actionable insight, while improving reliability, traceability, and deployment agility.
+With an educational foundation from **AltSchool Africa**(graduated as the Top Data Engineering performer) and a previous role as a **Data Engineering/MLOps Intern at Hamoye**, I’ve worked on systems that transform raw data into actionable insight, while improving reliability, traceability, and deployment agility.
 
 I’ve contributed to projects spanning **on-chain data engineering**, **custom blockchain indexers**, **Microservices**, **monitoring dashboards (Grafana, Prometheus, Loki)**, **ETL pipelines**, and **AWS cost-optimized infra**.
 
