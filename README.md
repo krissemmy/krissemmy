@@ -1,6 +1,11 @@
 # Hi there 👋🏾 Welcome to my GitHub!
 
-🔭 Building [KraiNode](https://krainode.krissemmy.com). Founding DevOps & Data Engineer at [GlueX Protocol](https://gluex.xyz), helping build the next generation of decentralized Finance infrastructure.  
+I’m Emmanuel (Chris), a DevOps and Blockchain Data Engineer focused on node infrastructure, on-chain data systems, and high-performance monitoring tools.
+
+I’m building [Krainode](https://krainode.krissemmy.com), an open RPC playground for testing and benchmarking multi-chain EVM endpoints.
+
+Previously, I was a Founding DevOps & Data Engineer at [GlueX Protocol](https://gluex.xyz), running multi-chain node infra and building indexing and monitoring pipelines.
+
 👨🏾‍💻 I specialize in blockchain node operations, on-chain data indexing, and real-time monitoring systems.  
 💬 Ask me about: Running full nodes, building data pipelines, cloud infra automation, or monitoring stacks.  
 📫 Reach out: krissemmy17@gmail.com  
@@ -9,67 +14,28 @@
 
 ---
 
-### 🚀 About Me
+🧠 About Me
 
-I'm a passionate DevOps & Data Engineer with a strong foundation in cloud-native infrastructure, blockchain protocols, and scalable data systems. From humble beginnings as a curious learner, I’ve grown into a **senior team member and founding engineer at GlueX Protocol**, where I manage mission-critical infrastructure across multiple blockchain networks and cloud platforms.
+I like building fast systems, debugging distributed infra, and making nodes behave.
+I enjoy open-source work and small tools that help other engineers ship faster.
 
-I’ve built full-node setups, indexing systems, stress-test frameworks, observability pipelines, and autoscaling environments using AWS, Linux, and modern DevOps stacks. 
+---
+
+### 🚀 What I Do
+
+I work across the full infra stack for Web3:
+- Node Infrastructure: Ethereum, Arbitrum, Base, Blast, Linea, Scroll, Optimism, Polygon, Gnosis, BNB, Sei, Taiko, Hyperevm, Berachain, Sonic, Unichain.
+- RPC Performance: latency tuning, request routing, stress testing, benchmarking.
+- Indexing & Data Engineering: custom indexers (RDS + Dynamo), ETL/ELT pipelines, analytics-ready models.
+- Monitoring: Loki, Prometheus, Grafana, log pipelines, alerting, metrics.
+- Cloud Infra: AWS EC2, NVMe/EBS setups, autoscaling, CI/CD, cost optimization.
+
+---
 
 #### ✅ Node Infrastructure Experience
 I have hands-on experience or deep research knowledge in setting up and managing nodes across:
 
 `Ethereum`, `Arbitrum`, `Base`, `Blast`, `Linea`, `Scroll`, `Mantle`, `Polygon`, `Optimism`, `Gnosis`, `BNB Chain`, `Berachain`, `Unichain`, `Sonic`, `Avalanche`, `Sei`, `Taiko`, and `Hyperevm`.
-
----
-
-### 💼 Background
-
-With an educational foundation from **AltSchool Africa**(graduated as the Top Data Engineering performer) and a previous role as a **Data Engineering/MLOps Intern at Hamoye**, I’ve worked on systems that transform raw data into actionable insight, while improving reliability, traceability, and deployment agility.
-
-I’ve contributed to projects spanning **on-chain data engineering**, **custom blockchain indexers**, **Microservices**, **monitoring dashboards (Grafana, Prometheus, Loki)**, **ETL pipelines**, and **AWS cost-optimized infra**.
-
----
-
-### 🛠️ Technical Skills
-
-**Programming & Query Languages:**  
-`Python`, `SQL`, `Bash`
-
-**Blockchain/Node Operations:**  
-`Node Setup`, `RPC Optimization`, `Peer Discovery`, `Node Monitoring`, `Custom Indexers`
-
-**DevOps & Infrastructure:**  
-`Linux`, `Docker`, `Nginx`, `Grafana`, `Prometheus`, `Loki`, `Amazon EC2`, `EBS/NVMe`, `CloudWatch`, `Terraform (basic)`
-
-**Cloud Platforms:**  
-`AWS`, `GCP`
-
-**Data Tools & Engineering:**  
-`Apache Beam`, `Apache Airflow`, `DBT`, `ETL`, `Dataflow`, `Google Pub/Sub`, `Amazon Kinesis`, `AWS Lambda`
-
-**Data Stores:**  
-`PostgreSQL`, `MongoDB`, `DynamoDB`, `Amazon Redshift`, `BigQuery`, `Snowflake`, `S3`, `GCS`, `Amazon RDS`, `Amazon DynamoDB`, `Amazon Timestream`
-
-**Monitoring & Observability:**  
-`Grafana`, `Loki`, `Prometheus`, `Amazon Managed Grafana`, `CloudWatch`, `Prometheus Client`
-
-**MLOps & Visualization:**  
-`Looker`, `Matplotlib`, `Plotly`
-
-**Version Control & Collaboration:**  
-`Git`, `GitHub`, `GitHub Actions`
-
----
-
-### 🧠 Soft Skills
-
-- Creative problem-solver
-- Team-oriented and collaborative
-- Excellent communicator
-- Deep focus on reliability and maintainability
-- Comfortable with fast-paced, startup environments
-- Security-conscious and privacy-aware
-- Always learning, always improving
 
 ---
 
@@ -80,5 +46,3 @@ Whether you want to collaborate, learn more about my work, or have a **DevOps/Da
 
 📧 **Email:** krissemmy17@gmail.com  
 🔗 **LinkedIn:** [Emmanuel Christopher](https://www.linkedin.com/in/emmanuel-christopher/)  
-
-I love open source, sharing knowledge, and building systems that just work. 👋🏾
