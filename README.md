@@ -2,7 +2,7 @@
 
 I'm a **Cloud Platform / DevOps Engineer** with 3+ years of experience building and operating production infrastructure across cloud, AI, blockchain, and data-heavy systems.
 
-I currently lead cloud/platform infrastructure at **RestoreAI**, where I own infrastructure, deployments, reliability, observability, security, databases, and GPU-backed workloads. Before that, I was a **Founding DevOps & NodeOps Engineer at [GlueX Protocol](https://gluex.xyz)**, operating production blockchain infrastructure across 15+ networks.
+I currently lead cloud/platform infrastructure at **[RestoreAI](https://restoreai.ghostdog.io/)**, where I own infrastructure, deployments, reliability, observability, security, databases, and GPU-backed workloads. Before that, I was a **Founding DevOps & NodeOps Engineer at [GlueX Protocol](https://x.com/GluexProtocol)**, operating production blockchain infrastructure across 15+ networks.
 
 I like infrastructure work where the outcome is obvious: **lower cost, lower latency, fewer failures, and less time spent babysitting systems.**
 
@@ -39,7 +39,7 @@ How I migrated a live startup across hosting, Redis, object storage, and databas
 
 ## Also
 
-I do infrastructure consulting for early-stage teams, mostly around **cloud migrations, deployment systems, reliability, cost reduction, databases, backups, and operational handover**.
+I do infrastructure consulting for early-stage teams, mostly around **cloud migrations, deployment systems, reliability, cost reduction, databases, backups, and operational handover**. check out what some of my clients have to say **[consulting page](https://www.krissemmy.com/consulting)**
 
 Outside work, I like music, trying new recipes, and building small tools that solve annoyingly specific engineering problems.
 
