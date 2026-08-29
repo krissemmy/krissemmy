@@ -1,48 +1,52 @@
-# Hi there 👋🏾 Welcome to my GitHub!
+# Hey, I'm Emmanuel 👋🏾
 
-I’m Emmanuel (Chris), a DevOps and Blockchain Data Engineer focused on node infrastructure, on-chain data systems, and high-performance monitoring tools.
+I'm a **Cloud Platform / DevOps Engineer** with 3+ years of experience building and operating production infrastructure across cloud, AI, blockchain, and data-heavy systems.
 
-I’m building [Krainode](https://krainode.krissemmy.com), an open RPC playground for testing and benchmarking multi-chain EVM endpoints.
+I currently lead cloud/platform infrastructure at **RestoreAI**, where I own infrastructure, deployments, reliability, observability, security, databases, and GPU-backed workloads. Before that, I was a **Founding DevOps & NodeOps Engineer at [GlueX Protocol](https://gluex.xyz)**, operating production blockchain infrastructure across 15+ networks.
 
-Previously, I was a Founding DevOps & Data Engineer at [GlueX Protocol](https://gluex.xyz), running multi-chain node infra and building indexing and monitoring pipelines.
+I like infrastructure work where the outcome is obvious: **lower cost, lower latency, fewer failures, and less time spent babysitting systems.**
 
-👨🏾‍💻 I specialize in blockchain node operations, on-chain data indexing, and real-time monitoring systems.  
-💬 Ask me about: Running full nodes, building data pipelines, cloud infra automation, or monitoring stacks.  
-📫 Reach out: krissemmy17@gmail.com  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I love music, collect recipes to cook new dishes, and do my best work in with music and snacks to go.
+## A few things I've worked on
 
----
+- **~66% lower AWS spend** at GlueX, from roughly **$25k/month to $8.5k/month**.
+- **~8× faster production latency**, reducing a critical RPC path from ~2s to **under 250ms**.
+- Operated **full/archive nodes and high-availability RPC infrastructure across 15+ blockchain networks**.
+- Reduced dev/staging AWS spend at RestoreAI from roughly **$700/day to $200/day** through GPU right-sizing and stale-resource cleanup.
+- Built **[KraiNode](https://krainode.krissemmy.com)**, a multi-chain RPC diagnostics and benchmarking tool used by **400+ engineers**.
 
-🧠 About Me
+## What I work on
 
-I like building fast systems, debugging distributed infra, and making nodes behave.
-I enjoy open-source work and small tools that help other engineers ship faster.
+- **Cloud & Platform:** AWS, Nebius, Hetzner, Terraform, Terragrunt, Docker, Kubernetes, GitHub Actions
+- **Reliability & Observability:** Prometheus, Grafana, Loki, OpenTelemetry, SLOs, alerting, incident response, backups/recovery
+- **Blockchain Infrastructure:** EVM JSON-RPC, full/archive nodes, RPC routing, failover, snapshots, node performance tuning
+- **Data & APIs:** PostgreSQL, pgvector, MySQL, MongoDB, DynamoDB, Python, FastAPI
+- **AI Infrastructure:** GPU workloads, NVIDIA NIM/VSS, workload sizing, deployment and cost optimization
 
----
+## Selected projects
 
-### 🚀 What I Do
+### [KraiNode](https://github.com/krissemmy/krainode-rpc-proxy)
+A developer-first multi-chain JSON-RPC playground for testing endpoints, benchmarking latency, and diagnosing degraded RPC providers.  
+**Live:** [krainode.krissemmy.com](https://krainode.krissemmy.com)
 
-I work across the full infra stack for Web3:
-- Node Infrastructure: Ethereum, Arbitrum, Base, Blast, Linea, Scroll, Optimism, Polygon, Gnosis, BNB, Sei, Taiko, Hyperevm, Berachain, Sonic, Unichain.
-- RPC Performance: latency tuning, request routing, stress testing, benchmarking.
-- Indexing & Data Engineering: custom indexers (RDS + Dynamo), ETL/ELT pipelines, analytics-ready models.
-- Monitoring: Loki, Prometheus, Grafana, log pipelines, alerting, metrics.
-- Cloud Infra: AWS EC2, NVMe/EBS setups, autoscaling, CI/CD, cost optimization.
+### [Evaboot API Reliability Probe](https://github.com/krissemmy/evaboot-api-reliability)
+A Python CLI for OpenAPI contract drift, safe live API checks, async job/webhook payload validation, retry handling, and CI-based reliability checks.
 
----
+### [ShipCheck](https://github.com/krissemmy/shipcheck)
+A deployment-readiness checker for live web apps covering HTTPS, reachability, response time, health endpoints, security headers, and metadata.
 
-#### ✅ Node Infrastructure Experience
-I have hands-on experience or deep research knowledge in setting up and managing nodes across:
+### [Cloud Infrastructure Migration Case Study](https://www.krissemmy.com/projects/how-i-cut-a-startups-infrastructure-cost)
+How I migrated a live startup across hosting, Redis, object storage, and databases while cutting recurring infrastructure cost and leaving behind a setup the team could actually operate.
 
-`Ethereum`, `Arbitrum`, `Base`, `Blast`, `Linea`, `Scroll`, `Mantle`, `Polygon`, `Optimism`, `Gnosis`, `BNB Chain`, `Berachain`, `Unichain`, `Sonic`, `Avalanche`, `Sei`, `Taiko`, and `Hyperevm`.
+## Also
 
----
+I do infrastructure consulting for early-stage teams, mostly around **cloud migrations, deployment systems, reliability, cost reduction, databases, backups, and operational handover**.
 
-### 🤝 Let’s Connect!
+Outside work, I like music, trying new recipes, and building small tools that solve annoyingly specific engineering problems.
 
-Thanks for checking out my profile!  
-Whether you want to collaborate, learn more about my work, or have a **DevOps/Data Engineering role** or freelance project in mind — feel free to reach out. I'm always open to meaningful conversations and opportunities.  
+## Let's connect
 
-📧 **Email:** krissemmy17@gmail.com  
-🔗 **LinkedIn:** [Emmanuel Christopher](https://www.linkedin.com/in/emmanuel-christopher/)  
+- **Portfolio:** [krissemmy.com](https://www.krissemmy.com)
+- **LinkedIn:** [Emmanuel Christopher](https://www.linkedin.com/in/emmanuel-christopher/)
+- **Email:** [krissemmy17@gmail.com](mailto:krissemmy17@gmail.com)
+
+If you're building something where infrastructure is starting to become expensive, fragile, or distracting for the product team, that's usually where I'm useful.
